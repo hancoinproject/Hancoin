@@ -1,4 +1,4 @@
-# Welcome to Bitcoin.org's Codebase
+# Welcome to HancoinProject's Cryptocurrency Trilogy Elastic Masternode Project
 
 Current Build Status: ![Build Status](https://travis-ci.org/bitcoin-dot-org/bitcoin.org.svg?branch=master)
 
